@@ -1,0 +1,988 @@
+# RoadRunner MTL Export
+
+newmtl Grass1
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Grass1_Diff.png
+map_bump Grass1_Norm.png
+map_Ks Grass1_Spec.png
+
+newmtl Grass2
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Grass2_Diff.png
+
+newmtl Asphalt1
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.058824 0.058824 0.058824
+Ns 850.150024
+Tr 0.000000
+map_Kd Asphalt1_Diff.png
+map_bump Asphalt1_Norm.png
+map_Ks Asphalt1_Spec.png
+
+newmtl LaneMarking1
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.196078 0.196078 0.196078
+Ns 900.099976
+Tr 0.000000
+map_Kd LaneMarking1_Diff.png
+map_bump LaneMarking1_Norm.png
+map_Ks LaneMarking1_Spec.png
+
+newmtl Concrete1
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Concrete1_Diff.png
+map_bump Concrete1_Norm.png
+map_Ks Concrete1_Spec.png
+
+newmtl SharedTexture02
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.498039 0.498039 0.498039
+Ns 950.049988
+Tr 0.000000
+map_Kd Signals_TextureSheet01_Diff.png
+map_bump Signals_TextureSheet01_Norm.png
+map_Ks Signals_TextureSheet01_Spec.png
+
+newmtl sign-{82f06ef5-38ac-4398-a9ec-65fb7880f077}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{82f06ef5-38ac-4398-a9ec-65fb7880f077}front.png
+
+newmtl Sign_Neuss-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_Neuss-Back.png
+
+newmtl sign-{74df33eb-a2b5-4495-8b6a-89a0db843ec9}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{74df33eb-a2b5-4495-8b6a-89a0db843ec9}front.png
+
+newmtl Sign_Bergheim-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_Bergheim-Back.png
+
+newmtl sign-{3ad30040-8b20-449e-8d73-d4b271c6f68b}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{3ad30040-8b20-449e-8d73-d4b271c6f68b}front.png
+
+newmtl Sign_Dormagen-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_Dormagen-Back.png
+
+newmtl sign-{229d5f56-5bd4-4783-a43e-96470828b646}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{229d5f56-5bd4-4783-a43e-96470828b646}front.png
+
+newmtl Sign_Grevenbroich-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_Grevenbroich-Back.png
+
+newmtl Sign_SpeedLimit_70_Max.svg_rrx
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_SpeedLimit_70_Max.png
+
+newmtl Sign_SpeedLimit_70_Max-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_SpeedLimit_70_Max-Back.png
+
+newmtl sign-{96240bfb-d9db-402b-b150-c21c1ef59572}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{96240bfb-d9db-402b-b150-c21c1ef59572}front.png
+
+newmtl Sign_Viersen-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_Viersen-Back.png
+
+newmtl sign-{dfa2d70d-6e4c-4aff-a079-6b852e5f5449}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{dfa2d70d-6e4c-4aff-a079-6b852e5f5449}front.png
+
+newmtl Sign_Uerdingen-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_Uerdingen-Back.png
+
+newmtl Sign_Yield.svg_rrx
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_Yield.png
+
+newmtl Sign_Yield-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_Yield-Back.png
+
+newmtl Sign_PriorityRoad_Start.svg_rrx
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_PriorityRoad_Start.png
+
+newmtl Sign_PriorityRoad_Start-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_PriorityRoad_Start-Back.png
+
+newmtl Sign_NoEntry.svg_rrx
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_NoEntry.png
+
+newmtl Sign_NoEntry-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_NoEntry-Back.png
+
+newmtl Sign_ExtremeCaution.svg_rrx
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_ExtremeCaution.png
+
+newmtl Sign_ExtremeCaution-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_ExtremeCaution-Back.png
+
+newmtl Sign_EinbahnL.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_EinbahnL.png
+
+newmtl Sign_EinbahnL-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_EinbahnL-Back.png
+
+newmtl Sign_EinbahnR.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_EinbahnR.png
+
+newmtl Sign_EinbahnR-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_EinbahnR-Back.png
+
+newmtl Sign_30ZoneEnde.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_30ZoneEnde.png
+
+newmtl Sign_30ZoneEnde-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_30ZoneEnde-Back.png
+
+newmtl Sign_PriorityThroughTraffic.svg_rrx
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_PriorityThroughTraffic.png
+
+newmtl Sign_PriorityThroughTraffic-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_PriorityThroughTraffic-Back.png
+
+newmtl Sign_PriorityRoad06.svg_rrx
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_PriorityRoad06.png
+
+newmtl Sign_PriorityRoad06-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_PriorityRoad06-Back.png
+
+newmtl Sign_PriorityRoad07.svg_rrx
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_PriorityRoad07.png
+
+newmtl Sign_PriorityRoad07-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_PriorityRoad07-Back.png
+
+newmtl Sign_PriorityRoad09.svg_rrx
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_PriorityRoad09.png
+
+newmtl Sign_PriorityRoad09-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_PriorityRoad09-Back.png
+
+newmtl Sign_Stop.svg_rrx
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_Stop.png
+
+newmtl Sign_Stop-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_Stop-Back.png
+
+newmtl Sign_Straight.svg_rrx
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_Straight.png
+
+newmtl Sign_Straight-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_Straight-Back.png
+
+newmtl Sign_PriorityRoad_End.svg_rrx
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_PriorityRoad_End.png
+
+newmtl Sign_PriorityRoad_End-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_PriorityRoad_End-Back.png
+
+newmtl Sign_Roundabout.svg_rrx
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_Roundabout.png
+
+newmtl Sign_Roundabout-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_Roundabout-Back.png
+
+newmtl Sign_TurnRight.svg_rrx
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_TurnRight.png
+
+newmtl Sign_TurnRight-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_TurnRight-Back.png
+
+newmtl Sign_30ZoneAnfang.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_30ZoneAnfang.png
+
+newmtl Sign_30ZoneAnfang-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_30ZoneAnfang-Back.png
+
+newmtl SharedTexture02_1
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.498039 0.498039 0.498039
+Ns 950.049988
+Tr 0.000000
+map_Kd Signals_TextureSheet01_Diff_1.png
+map_bump Signals_TextureSheet01_Norm_1.png
+map_Ks Signals_TextureSheet01_Spec_1.png
+
+newmtl sign-{5e1f58dd-2711-4d64-9724-e7e08ddbfe17}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{5e1f58dd-2711-4d64-9724-e7e08ddbfe17}front.png
+
+newmtl sign-{5e1f58dd-2711-4d64-9724-e7e08ddbfe17}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{5e1f58dd-2711-4d64-9724-e7e08ddbfe17}back.png
+
+newmtl sign-{753c6e8e-e5bd-4262-9ed5-a519621d4440}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{753c6e8e-e5bd-4262-9ed5-a519621d4440}front.png
+
+newmtl sign-{753c6e8e-e5bd-4262-9ed5-a519621d4440}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{753c6e8e-e5bd-4262-9ed5-a519621d4440}back.png
+
+newmtl sign-{1a97f46d-327b-4051-9815-efbf842894a9}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{1a97f46d-327b-4051-9815-efbf842894a9}front.png
+
+newmtl sign-{1a97f46d-327b-4051-9815-efbf842894a9}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{1a97f46d-327b-4051-9815-efbf842894a9}back.png
+
+newmtl sign-{40d9cf70-c118-4449-97f6-de4fd030298a}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{40d9cf70-c118-4449-97f6-de4fd030298a}front.png
+
+newmtl sign-{40d9cf70-c118-4449-97f6-de4fd030298a}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{40d9cf70-c118-4449-97f6-de4fd030298a}back.png
+
+newmtl sign-{f3665ddd-3a2b-4ee1-b49f-4a5e8f310a1d}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{f3665ddd-3a2b-4ee1-b49f-4a5e8f310a1d}front.png
+
+newmtl sign-{f3665ddd-3a2b-4ee1-b49f-4a5e8f310a1d}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{f3665ddd-3a2b-4ee1-b49f-4a5e8f310a1d}back.png
+
+newmtl sign-{3b7cfb1a-e23a-45f0-baaa-f0410e635195}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{3b7cfb1a-e23a-45f0-baaa-f0410e635195}front.png
+
+newmtl sign-{3b7cfb1a-e23a-45f0-baaa-f0410e635195}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{3b7cfb1a-e23a-45f0-baaa-f0410e635195}back.png
+
+newmtl sign-{b5c79a3e-c575-49ac-8377-5138fae5a437}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{b5c79a3e-c575-49ac-8377-5138fae5a437}front.png
+
+newmtl sign-{b5c79a3e-c575-49ac-8377-5138fae5a437}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{b5c79a3e-c575-49ac-8377-5138fae5a437}back.png
+
+newmtl sign-{2a5c6777-6b8b-48ed-95a2-fc4fa21e943a}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{2a5c6777-6b8b-48ed-95a2-fc4fa21e943a}front.png
+
+newmtl sign-{2a5c6777-6b8b-48ed-95a2-fc4fa21e943a}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{2a5c6777-6b8b-48ed-95a2-fc4fa21e943a}back.png
+
+newmtl sign-{e04badab-5240-485b-992b-3d1922dd8200}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{e04badab-5240-485b-992b-3d1922dd8200}front.png
+
+newmtl sign-{e04badab-5240-485b-992b-3d1922dd8200}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{e04badab-5240-485b-992b-3d1922dd8200}back.png
+
+newmtl sign-{65ae1734-ba36-497f-9831-4e446825b74f}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{65ae1734-ba36-497f-9831-4e446825b74f}front.png
+
+newmtl sign-{65ae1734-ba36-497f-9831-4e446825b74f}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{65ae1734-ba36-497f-9831-4e446825b74f}back.png
+
+newmtl sign-{112ed098-55ee-487c-9d2f-210a471034bf}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{112ed098-55ee-487c-9d2f-210a471034bf}front.png
+
+newmtl sign-{112ed098-55ee-487c-9d2f-210a471034bf}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{112ed098-55ee-487c-9d2f-210a471034bf}back.png
+
+newmtl sign-{8d432773-324f-4b41-a2b7-a5ebff28470b}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{8d432773-324f-4b41-a2b7-a5ebff28470b}front.png
+
+newmtl sign-{8d432773-324f-4b41-a2b7-a5ebff28470b}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{8d432773-324f-4b41-a2b7-a5ebff28470b}back.png
+
+newmtl sign-{fbbd4bea-d5ea-4470-85ce-ca86df676eeb}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{fbbd4bea-d5ea-4470-85ce-ca86df676eeb}front.png
+
+newmtl sign-{fbbd4bea-d5ea-4470-85ce-ca86df676eeb}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{fbbd4bea-d5ea-4470-85ce-ca86df676eeb}back.png
+
+newmtl sign-{1c8bd8b3-964a-4ac6-bacd-beaa31f966e9}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{1c8bd8b3-964a-4ac6-bacd-beaa31f966e9}front.png
+
+newmtl sign-{1c8bd8b3-964a-4ac6-bacd-beaa31f966e9}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{1c8bd8b3-964a-4ac6-bacd-beaa31f966e9}back.png
+
+newmtl sign-{d846ea3f-7ec7-4f16-b3a8-3dcc148719fb}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{d846ea3f-7ec7-4f16-b3a8-3dcc148719fb}front.png
+
+newmtl sign-{d846ea3f-7ec7-4f16-b3a8-3dcc148719fb}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{d846ea3f-7ec7-4f16-b3a8-3dcc148719fb}back.png
+
+newmtl sign-{108a1cc8-feac-4e18-832d-70af07511503}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{108a1cc8-feac-4e18-832d-70af07511503}front.png
+
+newmtl sign-{108a1cc8-feac-4e18-832d-70af07511503}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{108a1cc8-feac-4e18-832d-70af07511503}back.png
+
+newmtl sign-{73b1401f-d7d7-4974-b6e7-ff627d4cae7a}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{73b1401f-d7d7-4974-b6e7-ff627d4cae7a}front.png
+
+newmtl sign-{73b1401f-d7d7-4974-b6e7-ff627d4cae7a}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{73b1401f-d7d7-4974-b6e7-ff627d4cae7a}back.png
+
+newmtl sign-{b0b3a576-ff78-48f6-9f95-bb4890cd7f43}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{b0b3a576-ff78-48f6-9f95-bb4890cd7f43}front.png
+
+newmtl sign-{b0b3a576-ff78-48f6-9f95-bb4890cd7f43}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{b0b3a576-ff78-48f6-9f95-bb4890cd7f43}back.png
+
+newmtl sign-{dd9c5d94-0550-4e61-846d-7830f64e7acd}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{dd9c5d94-0550-4e61-846d-7830f64e7acd}front.png
+
+newmtl sign-{dd9c5d94-0550-4e61-846d-7830f64e7acd}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{dd9c5d94-0550-4e61-846d-7830f64e7acd}back.png
+
+newmtl sign-{a8bf0294-6f3d-44fc-a2f8-ae70b602bd3a}front.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{a8bf0294-6f3d-44fc-a2f8-ae70b602bd3a}front.png
+
+newmtl sign-{a8bf0294-6f3d-44fc-a2f8-ae70b602bd3a}back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd sign-{a8bf0294-6f3d-44fc-a2f8-ae70b602bd3a}back.png
+
+newmtl Sign_PedXing2.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_PedXing2.png
+
+newmtl Sign_PedXing2-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_PedXing2-Back.png
+
+newmtl Sign_PedXing.svg_rrx
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_PedXing.png
+
+newmtl Sign_PedXing-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_PedXing-Back.png
+
+newmtl Sign_Haltestelle.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_Haltestelle.png
+
+newmtl Sign_Haltestelle-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_Haltestelle-Back.png
+
+newmtl Urban_Mat
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.498039 0.498039 0.498039
+Ns 950.049988
+Tr 0.000000
+map_Kd UrbanProps01_Diff.png
+map_bump UrbanProps01_Norm.png
+map_Ks UrbanProps01_Spec.png
+
+newmtl Sign_KurveR.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_KurveR.png
+
+newmtl Default
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+
+newmtl Urban_Mat_1
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.498039 0.498039 0.498039
+Ns 950.049988
+Tr 0.000000
+map_Kd UrbanProps01_Diff.png
+map_bump UrbanProps01_Norm.png
+map_Ks UrbanProps01_Spec.png
+
+newmtl Sign_KurveL.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_KurveL.png
+
+newmtl Sign_NarrowRight.svg_rrx
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_NarrowRight.png
+
+newmtl Sign_NarrowRight-Back.png
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ns 800.200012
+Tr 0.000000
+map_Kd Sign_NarrowRight-Back.png
